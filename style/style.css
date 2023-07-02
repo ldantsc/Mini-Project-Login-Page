@@ -10,7 +10,7 @@ body {
     align-items: center;
     text-rendering: optimizeLegibility !important;
     background-color: rgba(0,0,0);
-    background-image: url(/img/netflix-gradient.png);
+    background-image: url(../img/netflix-bg-img.png);
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Montserrat', sans-serif;

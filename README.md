@@ -7,7 +7,7 @@
 <br>
 
 
-<p><a href="https://ldantsc.github.io/Mini-Project-Login-Page/" targe="_blank"><strong>> Visualize o Projeto Aqui <</strong></a></p>
+<p><a href="https://ldantsc.github.io/Mini-Project-Login-Page/" target="_blank"><strong>> Visualize o Projeto Aqui <</strong></a></p>
 
 <br>
 
